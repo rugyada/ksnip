@@ -4,7 +4,7 @@
 
 Name:		ksnip
 Version:	1.11.0%{?gitdate:~%{gitdate}}
-Release:	4
+Release:	5
 Summary:	Screenshot tool
 License:	GPLv3
 Group:		Graphical desktop/KDE
